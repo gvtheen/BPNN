@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1514140574 source:f:\glzhuang-important\computer_study\design_by_c_plus_plus\bp-nn\bpnn\main.cpp
+	<iostream>
+
+1565072866 source:f:\glzhuang-important\computer_study\design_by_c_plus_plus\bp-nn\bpnn\src\bpnnet.cpp
+	<math.h>
+	<string>
+	<fstream>
+	<algorithm>
+	"BPNNet.h"
+
+1565072919 f:\glzhuang-important\computer_study\design_by_c_plus_plus\bp-nn\bpnn\include\bpnnet.h
+	<iostream>
+	<Eigen/Core>
+	<Eigen/Dense>
+	"define.h"
+
+1564326011 f:\glzhuang-important\computer_study\design_by_c_plus_plus\bp-nn\bpnn\include\define.h
+	<vector>
+
